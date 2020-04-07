@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">Advanced Diary</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="log_in">Войти</string>
+    <string name="hello">Привет!</string>
+    <string name="request_error">Ошибка соединения с сервером: %1s</string>
+    <string name="response_error">Возникла ошибка при получении запроса. Код ошибки: %1d</string>
+    <string name="incorrect_login_or_password">Введен неправильный логин/пароль</string>
+    <string name="no_internet_connection">Отсутсвует соединение с интернетом</string>
+    <string name="auth">Авторизация</string>
+    <string-array name="servers">
+        <item>Новосибирская Область</item>
+        <!-- TODO -->
+        <item>Доделаю потом)))</item>
+    </string-array>
 </resources>
